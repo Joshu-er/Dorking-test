@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin_login.html
+Disallow: /backup.sql
